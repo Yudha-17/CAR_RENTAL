@@ -138,6 +138,29 @@ h2 {
 }
 /* End styling FAQ */
 
+/* Start styling Search */
+#search{
+  margin-top: -3rem;
+}
+
+#search-result .img-fluid{
+  height:250px;
+  object-fit: contain;
+}
+#search-result ul{
+  list-style: none;
+  padding-left: 0;
+}
+#search-result li{
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+#search-result li img{
+  margin-right: 1rem;
+}
+/* End styling search */
+
 /* Start styling Footer */
 footer ul{
   list-style: none;

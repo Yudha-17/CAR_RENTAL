@@ -14,6 +14,9 @@ import iconTwitch from './icon_twitch.svg'
 import iconTwitter from './icon_twitter.svg'
 import iconMail from './icon_mail.svg'
 import iconInstagram from './icon_instagram.svg'
+import iconCalendar from './icon_calendar.svg'
+import iconSettings from './icon_settings.svg'
+import iconUsers from './icon_users.svg'
 
 export default {
     logo,
@@ -31,5 +34,8 @@ export default {
     iconTwitch,
     iconTwitter,
     iconMail,
-    iconInstagram
+    iconInstagram,
+    iconCalendar,
+    iconSettings,
+    iconUsers
 }
